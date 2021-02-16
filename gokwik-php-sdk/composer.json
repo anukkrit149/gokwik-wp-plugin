@@ -1,0 +1,15 @@
+{
+    "name": "gokwik/gokwik-php-sdk",
+    "description": "PHP SDK for gokwik",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anukkrit Shanker",
+            "email": "anukkrit@gokwik.co"
+        }
+    ],
+    "require": {
+        "rmccue/requests": "^1.7"
+    }
+}
